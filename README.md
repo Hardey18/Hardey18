@@ -1,5 +1,3 @@
-![Front Page](https://i.ibb.co/T8X9Ky1/NURUDEEN-ADEWALE-2.png)
-
 ## Hi there 👋
 #### My name is Nurudeen Adewale and I love building user interfaces, developing web contents, care a whole lot about design and also enjoy working on database. I have passion for Technology. I am talented with experiences in wide range of technology desciplines.
 
