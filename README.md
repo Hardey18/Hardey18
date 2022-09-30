@@ -24,7 +24,7 @@
 
 - :zap: In my free time, I watch movies and play video games
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/nurudeen-adewale-7a02715a)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nurudeen-adewale-7a02715a)
 
 ---
 
