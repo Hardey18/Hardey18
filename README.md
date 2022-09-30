@@ -52,6 +52,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/develop/icons/vscode/vscode-original.svg" title="VSCODE" **alt="VSCODE" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hardey18&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 ## Hi there 👋
 #### My name is Nurudeen Adewale and I love building user interfaces, developing web contents, care a whole lot about design and also enjoy working on database. I have passion for Technology. I am talented with experiences in wide range of technology desciplines.
