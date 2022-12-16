@@ -53,12 +53,12 @@
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hardey18&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardey18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hardey18&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ## Hi there 👋
 #### My name is Nurudeen Adewale and I love building user interfaces, developing web contents, care a whole lot about design and also enjoy working on database. I have passion for Technology. I am talented with experiences in wide range of technology desciplines.
 
